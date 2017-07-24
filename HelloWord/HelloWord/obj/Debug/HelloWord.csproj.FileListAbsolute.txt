@@ -1,0 +1,17 @@
+C:\Users\victor\Desktop\HelloWordMobile\HelloWord\HelloWord\HelloWord\bin\Debug\HelloWord.dll
+C:\Users\victor\Desktop\HelloWordMobile\HelloWord\HelloWord\HelloWord\bin\Debug\HelloWord.pdb
+C:\Users\victor\Desktop\HelloWordMobile\HelloWord\HelloWord\HelloWord\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\victor\Desktop\HelloWordMobile\HelloWord\HelloWord\HelloWord\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\victor\Desktop\HelloWordMobile\HelloWord\HelloWord\HelloWord\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\victor\Desktop\HelloWordMobile\HelloWord\HelloWord\HelloWord\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\victor\Desktop\HelloWordMobile\HelloWord\HelloWord\HelloWord\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\victor\Desktop\HelloWordMobile\HelloWord\HelloWord\HelloWord\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\victor\Desktop\HelloWordMobile\HelloWord\HelloWord\HelloWord\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\victor\Desktop\HelloWordMobile\HelloWord\HelloWord\HelloWord\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\victor\Desktop\HelloWordMobile\HelloWord\HelloWord\HelloWord\obj\Debug\HelloWord.csprojResolveAssemblyReference.cache
+C:\Users\victor\Desktop\HelloWordMobile\HelloWord\HelloWord\HelloWord\obj\Debug\HelloWord.MainPage.xaml.g.cs
+C:\Users\victor\Desktop\HelloWordMobile\HelloWord\HelloWord\HelloWord\obj\Debug\HelloWord.App.xaml.g.cs
+C:\Users\victor\Desktop\HelloWordMobile\HelloWord\HelloWord\HelloWord\obj\Debug\HelloWord.dll
+C:\Users\victor\Desktop\HelloWordMobile\HelloWord\HelloWord\HelloWord\obj\Debug\HelloWord.pdb
+C:\Users\victor\Desktop\HelloWordMobile\HelloWord\HelloWord\HelloWord\obj\Debug\HelloWord.Calculadora.xaml.g.cs
+C:\Users\victor\Desktop\HelloWordMobile\HelloWord\HelloWord\HelloWord\obj\Debug\HelloWord.Ligacao.xaml.g.cs

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:HelloWord"
+             x:Class="HelloWord.MainPage">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Welcome to Xamarin Forms!" 
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+            <Button x:Name="btnHelloWorld" Text="Hello World!" Clicked="btnHelloWorld_Clicked"/>
+
+            <Entry x:Name="txtNome" Placeholder="Seu nome" VerticalOptions="Center" HorizontalOptions="Center"/>
+            <Button x:Name="btnApresentacao" Text="Apresentar" Clicked="btnApresentacao_Clicked"/>
+
+            <StackLayout Orientation="Horizontal" VerticalOptions="Center">
+                <Entry x:Name="txtTeste" Placeholder="Vacilaum" TextColor="Black"/>
+                <Button x:Name="btnTeste" Text="Vacilaum" Clicked="btnTeste_Clicked" BackgroundColor="Red" TextColor="Blue" />
+            </StackLayout>
+
+            <StackLayout VerticalOptions="End">
+                <Button x:Name="btnNavegar" Text="Calculadora" Clicked="btnNavegar_Clicked" />
+            </StackLayout>
+
+            <StackLayout VerticalOptions="End">
+                <Button x:Name="btnNavegarLigacao" Text="Telefone" Clicked="btnNavegarLigacao_Clicked" />
+            </StackLayout>
+
+            <StackLayout VerticalOptions="End">
+                <Button x:Name="btnNavGoogle" Text="Google" Clicked="btnNavGoogle_Clicked" />
+            </StackLayout>
+
+            <StackLayout VerticalOptions="End">
+                <Button x:Name="btnAudio" Text="Som" Clicked="btnAudio_Clicked" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
